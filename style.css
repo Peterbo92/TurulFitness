@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(images/coach.JPG);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/****************NAvBar****************/
+.navbar {
+    background-color: black;
+}
+.nav-item {
+    float: right;
+    text-decoration: none;
+    padding: 2vw 1.5vw;
+    font-family: Montserrat;
+    font-size: 1.5vw;
+    font-weight: lighter;
+    color: white;
+}
+.nav-item:hover {
+    text-decoration: overline;
+    color: #313969;
+}
+h1 {
+    position: absolute;
+    top: 0.5vw;
+    left: 6.2vw;
+    color: white;
+    font-size: 2vw;
+}
+#mainlogo {
+    width: 6vw;
+    position: inline-block;
+}
+/****************Containers****************/
+.top-container {
+    float: right;
+    height: 80vh;
+    width: 50vw;
+    background-color: black;
+}
+.middle-container {
+    float: left;
+    height: 80vh;
+    width: 50vw;
+    background-color: #313969;
+}
+.bottom-container {
+    float: right;
+    height: 80vh;
+    width: 50vw;
+    background-color: black;
+}
+.bottom-container-second {
+    float: left;
+    height: 80vh;
+    width: 50vw;
+    background-color: #313969;
+}
+.bottom-container-third {
+    float: right;
+    height: 80vh;
+    width: 50vw;
+    background-color: black;
+}
+.footer {
+    background-color: black;
+    height: 30vh;
+    width: 100%;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+.social-icon {
+    color: white;
+    font-size: 3vh;
+    margin: 1vw;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
